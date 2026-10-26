@@ -152,3 +152,5 @@ and a missing Visual C++ runtime.
 ---
 
 *Escape from Tarkov · Updated 2026-10-26 · Shared under the MIT License*
+
+<!-- rev 2026-10-26 -->
